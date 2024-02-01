@@ -1,0 +1,23 @@
+Daniel Garbutt
+Stars V1.01
+
+Stars are created, moved and respawned.
+
+Code Changes:
+A function to move stars forwards and backwards.
+A funciton to set the screen to black.
+a funciton to respawn Stars.
+
+
+
+New implementation;
+
+Tests:
+10 stars - works 0 issues
+100 stars - works 0 issues 
+1000 stars - works 0 issues 
+
+
+Notes:
+
+need to add scaling funciton to stars to increase and decrease size depending on distance to user.
